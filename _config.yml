@@ -1,0 +1,8 @@
+# Publish only the client resource hub and client guides.
+exclude:
+  - README.md
+  - 00-README.html
+  - 03-team-install-sop.html
+  - 05-install-tracker-qa.html
+  - 06-followup-support.html
+  - 07-email-templates.html
